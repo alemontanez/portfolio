@@ -6,7 +6,7 @@ import mern from '../../assets/projects/mern.jpg'
 
 const projects = [
   {
-    title: 'Ecommerce',
+    title: 'Ecommerce React',
     description: 'Tienda online de ropa con carrito funcional.',
     image: ecommerce,
     technologies: ['React', 'CSS', 'Firebase'],
@@ -18,7 +18,7 @@ const projects = [
     description: 'To-do App con autenticación e implementación de base de datos.',
     image: mern,
     technologies: ['MongoDB', 'Express', 'React', 'Node', 'CSS'],
-    github: 'https://github.com/juan/clima-app',
+    github: 'https://github.com/alemontanez/mern-auth-task',
     demo: ''
   }
 ]
