@@ -1,4 +1,4 @@
-# 🌐 Portfolio - Alejandro Montañez
+# 💼 Portfolio - Alejandro Montañez
 
 Este es mi portfolio personal como desarrollador web fullstack. Lo desarrollé con foco en la simplicidad, la claridad visual y una navegación fluida. Contiene información sobre mí, mis habilidades, experiencia, proyectos destacados y formas de contacto.
 
@@ -25,7 +25,7 @@ Este es mi portfolio personal como desarrollador web fullstack. Lo desarrollé c
 ## 🚀 Deploy
 
 La versión en producción está disponible en:  
-🔗 [https://tudominio.netlify.app](https://tudominio.netlify.app)
+🔗 [https://alejandro-montanez.netlify.app/](https://alejandro-montanez.netlify.app/)
 
 ---
 

@@ -26,7 +26,7 @@ function FeaturedProject() {
 
           <div className='project-links'>
             <a href='https://github.com/alemontanez/tesk-pern' target='_blank' rel='noreferrer'>GitHub</a>
-            <a href='https://github.com/usuario/repositorio' target='_blank' rel='noreferrer'>Demo</a>
+            {/* <a href='https://github.com/usuario/repositorio' target='_blank' rel='noreferrer'>Demo</a> */}
           </div>
         </div>
 
