@@ -6,12 +6,13 @@ function Skills() {
       <div>
         <h2>Tecnologías</h2>
         <ul className='skills-list'>
-          <li>Javascript</li>
+          <li>JavaScript</li>
           <li>HTML</li>
           <li>CSS</li>
           <li>React</li>
           <li>Node.js</li>
           <li>Express</li>
+          <li>TypeScript</li>
           <li>MySQL</li>
           <li>PostgreSQL</li>
           <li>MongoDB</li>
@@ -41,6 +42,8 @@ function Skills() {
           <li>Bcryptjs</li>
           <li>Firebase</li>
           <li>JQuery</li>
+          <li>Swagger</li>
+          <li>JSDoc</li>
         </ul>
       </div>
     </section>
