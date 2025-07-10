@@ -25,7 +25,7 @@ function Contact() {
 
       </div>
       <div className='contact-cv'>
-        <a href='/CV_Alejandro_Montañez.pdf' className='contact-btn' download>Descargar CV</a>
+        <a href='/AlejandroMontañezCV.pdf' className='contact-btn' download>Descargar CV</a>
       </div>
     </section>
   )

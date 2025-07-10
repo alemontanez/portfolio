@@ -11,7 +11,7 @@ function ProjectCard({ project, index }) {
           ))}
         </ul>
         <div className='project-links'>
-          {project.github && <a href={project.github} target='_blank' rel='noreferrer'>GitHub</a>}
+          {project.github && <a href={project.github} target='_blank' rel='noreferrer'>Repositorio de GitHub</a>}
           {project.demo && <a href={project.demo} target='_blank' rel='noreferrer'>Demo</a>}
         </div>
       </div>

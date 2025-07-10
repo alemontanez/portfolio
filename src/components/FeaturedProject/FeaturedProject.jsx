@@ -25,8 +25,8 @@ function FeaturedProject() {
           </ul>
 
           <div className='project-links'>
-            <a href='https://github.com/alemontanez/tesk-pern' target='_blank' rel='noreferrer'>GitHub</a>
-            <a href='https://tesk-frontend.onrender.com/' target='_blank' rel='noreferrer'>Demo</a>
+            <a href='https://github.com/alemontanez/tesk-pern' target='_blank' rel='noreferrer'>Repositorio de GitHub</a>
+            {/* <a href='https://tesk-frontend.onrender.com/' target='_blank' rel='noreferrer'>Demo</a> */}
           </div>
         </div>
 

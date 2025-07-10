@@ -32,4 +32,5 @@
 
 .skills-list li:hover {
   cursor: default;
+  background-color: #3f8cffef;
 }
